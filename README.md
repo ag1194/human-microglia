@@ -1,10 +1,10 @@
 # human-microglia
 
-##Description
+#Description
 
 This repository contains scripts used in Guvenek et al. 
 
-##TPM_count_SingleEnd.R 
+#TPM_count_SingleEnd.R 
 Script is used to count reads from bam files
 
 ##DESeq2 analysis.R 
