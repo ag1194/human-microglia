@@ -11,7 +11,7 @@ Script is used to count reads from bam files
 Script is used to do DESeq2 analysis for Figure 1b
 
 ## BulkRNA-seq Heatmap.R 
-Script is used to create Figure 1c. 
+Script is used to create Figure 1c
 
 ## scRNA-seq Integration.R 
 Script is used to integrate multiple single-cell/single-nucleus RNA-seq datasets to create Figure 2
