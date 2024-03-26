@@ -1,5 +1,8 @@
 # human-microglia
 
+##Licence
+This project is licensed under the terms of the MIT license.
+
 ## Description
 
 This repository contains scripts used in Guvenek et al. 
